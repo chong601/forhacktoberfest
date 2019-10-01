@@ -1,4 +1,6 @@
 # forhacktoberfest
-Join the fun for Hacktoberfest!
+It's October 2019, and what does that mean?
 
-Add your name to CONTRIBUTORS.md!
+# Another Hacktoberfest!
+
+Clone this project, add your name to CONTRIBUTORS.md, pull request to this repository!
